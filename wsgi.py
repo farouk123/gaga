@@ -5,7 +5,7 @@ import bottle
 @bottle.route('/')
 def index():
     pyver = '.'.join(map(str, tuple(sys.version_info)[:3]))
-    return 'Hello! (from <b>Python %s</b>)' % (pyver,)
+    return 'جامعة العلوم والتقانة برنامج ماجستير نظم المعلومات! (from <b>Python %s</b>)' % (pyver,)
 
 
 application = bottle.default_app()
