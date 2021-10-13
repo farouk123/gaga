@@ -1,7 +1,4 @@
-
-gaga is softwere as a service project for arabic user interfaces
-i want to do that by stackato and python language
-platform as services
+gaga is software as a service project for arabic users ,  by stackato and python.
                                                     
                                                     
                                                     
